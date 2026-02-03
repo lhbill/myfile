@@ -33,6 +33,7 @@
 也可以在Term中使用命令：
 
 /interface/veth/add name=veth1 address=192.168.2.5/24 gateway=192.168.2.1
+
 /interface/bridge/port add bridge=bridge1 interface=veth1
 
 注意其中的gateway设为ROS的ip，veth1设置一个内网空余的ip，bridge改为自己的内网网桥名称
