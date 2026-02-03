@@ -44,9 +44,9 @@
 
 等待容器加载完成
 
-![img5](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/05.jpg)
+![img5](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/08.jpg)
 
-![img6](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/06.jpg)
+![img6](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/09.jpg)
 
 在container的Envs中增加一条环境变量，list设为与上面envlist名称一致，Key设为EDGE_KEY，Valve设为站点标识
 
