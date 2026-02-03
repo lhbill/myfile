@@ -20,15 +20,15 @@
 
 再运行system/device-mode/print，会显示container: yes
 
-![img2](https://github.com/lhbill/myfile/blob/main/02.jpg)
+![img2](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/02.jpg)
 
 ## 二、创建一个veth
 
 在Interfaces VETH中，创建一个veth1，配置一个ip，并添加到网桥中
 
-![img3](https://github.com/lhbill/myfile/blob/main/03.jpg)
+![img3](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/03.jpg)
 
-![img4](https://github.com/lhbill/myfile/blob/main/04.jpg)
+![img4](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/04.jpg)
 
 也可以在Term中使用命令：
 
@@ -43,13 +43,13 @@
 
 等待容器加载完成
 
-![img5](https://github.com/lhbill/myfile/blob/main/05.jpg)
+![img5](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/05.jpg)
 
-![img6](https://github.com/lhbill/myfile/blob/main/06.jpg)
+![img6](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/06.jpg)
 
 在container的Envs中增加一条环境变量，list设为与上面envlist名称一致，Key设为EDGE_KEY，Valve设为站点标识
 
-![img7](https://github.com/lhbill/myfile/blob/main/07.jpg)
+![img7](https://gh-proxy.org/https://github.com/lhbill/myfile/blob/main/07.jpg)
 
 Term命令方式如下，把123替换为站点标识即可：/container/envs/add list=beyondnetwork key=EDGE_KEY value=123
 
