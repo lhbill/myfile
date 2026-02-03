@@ -6,7 +6,7 @@
 
 在System-Packages中查看是否已安装container，如果没有安装，选中container点右边的Enable，重启ros安装
 
-[img]https://github.com/lhbill/myfile/blob/main/01.jpg[/img]
+!(../https://github.com/lhbill/myfile/blob/main/01.jpg)
 
 使用New Terminal（以下简称Term），运行命令：system/device-mode/print
 
