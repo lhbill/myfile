@@ -1,5 +1,7 @@
 # RouterOS系统使用比扬云
 
+首先感谢软件开发者！比扬云的软件下载和基本教程参见官网：[比扬云](https://www.beyondnetwork.cn)
+
 以下所有操作均在routeros 7.21.2 Stable版本测试通过，其它版本基本方法一样，部分地方可能略有不同，参考并适当修改即可
 
 ## 一、开启container
